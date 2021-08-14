@@ -211,7 +211,7 @@ Transform:
   m_GameObject: {fileID: 31290329}
   m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: -2.35, y: 1, z: -1.2}
+  m_LocalScale: {x: -1.9, y: 1, z: -1.2}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 2
@@ -285,7 +285,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u30A4\u30A8\u30ED\u30FC\u30D1\u30CD\u30EB"
+  m_Text: Yellow Panel
 --- !u!222 &105917018
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -342,7 +342,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 1
+  m_UiScaleMode: 0
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 1024, y: 768}
@@ -361,7 +361,7 @@ Canvas:
   m_GameObject: {fileID: 422554607}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 1
+  m_RenderMode: 0
   m_Camera: {fileID: 863011758}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
@@ -465,7 +465,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u30B7\u30A2\u30F3\u30D1\u30CD\u30EB"
+  m_Text: Cyan Panel
 --- !u!222 &612706686
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -784,7 +784,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u30DE\u30BC\u30F3\u30BF\u30D1\u30CD\u30EB"
+  m_Text: Magenta Panel
 --- !u!222 &866918757
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1005,7 +1005,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u623B\u308B"
+  m_Text: return
 --- !u!222 &2010728799
 CanvasRenderer:
   m_ObjectHideFlags: 0

@@ -132,7 +132,7 @@ public class TapPositionController : MonoBehaviour
         float directionY = flickEndPos.y - flickStartPos.y;
         Debug.Log($"direction1: {directionY.ToString()}");
 
-        if (100 < directionY && timer < flickTime)
+        if (200 < directionY && timer < flickTime)
         {
             GameObject red = Instantiate(RedPanelPrefab);
             red.transform.position = new Vector3(transform.position.x, startPosY, startPosZ);       
