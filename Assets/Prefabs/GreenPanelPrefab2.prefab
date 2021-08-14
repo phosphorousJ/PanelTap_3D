@@ -15,8 +15,8 @@ GameObject:
   - component: {fileID: 7665251482921568682}
   - component: {fileID: 7665251482921568683}
   m_Layer: 0
-  m_Name: GreenPanel2
-  m_TagString: RedPanelTag
+  m_Name: GreenPanelPrefab2
+  m_TagString: GreenPanelTag2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

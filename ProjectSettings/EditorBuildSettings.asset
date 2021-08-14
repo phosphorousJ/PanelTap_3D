@@ -4,5 +4,68 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: bedf805f2d7743e489e37e19d8438ed2
+  - enabled: 1
+    path: Assets/Scenes/GameScreenDescripitionScenes.unity
+    guid: 3c7832b7cee8fb34a8e63eeb19590868
+  - enabled: 1
+    path: Assets/Scenes/PlayerPanelDescripitionScenes.unity
+    guid: 256b417dddeaccf4ea8b00ead0d09170
+  - enabled: 1
+    path: Assets/Scenes/OffsetPenetrationDescripitionScenes.unity
+    guid: 6f6eb3c70f757d540a6a5a15f0ff098f
+  - enabled: 1
+    path: Assets/Scenes/BluePanelDescripitionScenes.unity
+    guid: 4ad4b93e86a58b640aecbcf0db8c579f
+  - enabled: 1
+    path: Assets/Scenes/RedPanelDescripitionScenes.unity
+    guid: 4b80e555e55f8d74fa06570c8d6d61e3
+  - enabled: 1
+    path: Assets/Scenes/GreenPanelDescripitionScenes.unity
+    guid: 2c1f543c2003e104fb22ea89a60e3e94
+  - enabled: 1
+    path: Assets/Scenes/EnemyPanelDescripitionScenes.unity
+    guid: 8f727544a02acd349b664d6c4147797c
+  - enabled: 1
+    path: Assets/Scenes/UpperWallDescripitionScenes.unity
+    guid: 154f655e39789da4f983a96225aff21f
+  - enabled: 1
+    path: Assets/Scenes/RuleDescripitionScenes.unity
+    guid: 904905d0604788b40ae165acac30e070
+  - enabled: 1
+    path: Assets/Scenes/StageSelectScenes.unity
+    guid: 59e00ce645db7fa43806b4fd5f2ede4b
+  - enabled: 1
+    path: Assets/Scenes/EasyGameScenes.unity
+    guid: 39d03e8cebc552246aa296197ce38074
+  - enabled: 1
+    path: Assets/Scenes/NomalGameSubScenes.unity
+    guid: 71a9564600c83e549919533a56496d35
+  - enabled: 1
+    path: Assets/Scenes/HardGameScenes.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/HardGameSubScenes.unity
+    guid: 7fe361a7539398849ae1d1cb3dce6f30
+  - enabled: 1
+    path: Assets/Scenes/EasyGameClearScenes.unity
+    guid: 24f4c5d2ad4148348ac9afd088ca4e72
+  - enabled: 1
+    path: Assets/Scenes/EasyGameOverScenes.unity
+    guid: 25c557a553c3ffc4f996223c1b131fa7
+  - enabled: 1
+    path: Assets/Scenes/NomalGameClearScenes.unity
+    guid: 4e9760f6b7ad08940a4857530a57cd94
+  - enabled: 1
+    path: Assets/Scenes/NomalGameOverScenes.unity
+    guid: 0d1485753d754784d8191db3bde6186e
+  - enabled: 1
+    path: Assets/Scenes/GameClearSubScenes.unity
+    guid: 8779399c11bb23a4e8e3b81fef8f9be7
+  - enabled: 1
+    path: Assets/Scenes/GameOverSubScenes.unity
+    guid: f5bdfe6a59ead4d488482e61c59f0ce2
   m_configObjects: {}

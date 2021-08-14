@@ -11,6 +11,11 @@ TagManager:
   - RedPanelTag
   - GreenPanelTag
   - UpperWallTag
+  - UnderWallTag
+  - GreenPanelTag1
+  - GreenPanelTag2
+  - GreenPanelTag3
+  - GreenPanelTag4
   layers:
   - Default
   - TransparentFX

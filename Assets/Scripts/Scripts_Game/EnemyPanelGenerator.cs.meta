@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2d905ff600ec4354aac91923d0263488
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CyanPanelPrefab: {instanceID: 0}
+  - MagentaPanelPrefab: {instanceID: 0}
+  - YellowPanelPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

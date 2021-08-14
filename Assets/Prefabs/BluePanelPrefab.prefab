@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 4542594568713471107}
   m_Layer: 0
   m_Name: BluePanelPrefab
-  m_TagString: BulePanelTag
+  m_TagString: BluePanelTag
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -107,6 +107,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 305f9b4a9b966ea49bd63ab4bedaf810, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _slider: {fileID: 0}
+  slider: {fileID: 0}
+  hp: 0
 --- !u!54 &4542594568713471107
 Rigidbody:
   m_ObjectHideFlags: 0
