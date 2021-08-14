@@ -285,7 +285,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u30EC\u30C3\u30C9\u30D1\u30CD\u30EB"
+  m_Text: Red Panel
 --- !u!222 &72853826
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -628,11 +628,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
-  m_ScreenMatchMode: 0
+  m_ReferenceResolution: {x: 1024, y: 768}
+  m_ScreenMatchMode: 1
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
@@ -752,7 +752,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u623B\u308B"
+  m_Text: return
 --- !u!222 &501040454
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -830,7 +830,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u30D6\u30EB\u30FC\u30D1\u30CD\u30EB"
+  m_Text: Blue Panel
 --- !u!222 &571992886
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1195,7 +1195,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 247, y: -140}
-  m_SizeDelta: {x: 100, y: 30}
+  m_SizeDelta: {x: 140, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1317323013
 MonoBehaviour:
@@ -1369,7 +1369,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u76F8\u6BBA\u30FB\u8CAB\u901A"
+  m_Text: Offset&Penetration
 --- !u!222 &1368273040
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1513,7 +1513,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u30B0\u30EA\u30FC\u30F3\u30D1\u30CD\u30EB"
+  m_Text: Green Panel
 --- !u!222 &1897702369
 CanvasRenderer:
   m_ObjectHideFlags: 0
